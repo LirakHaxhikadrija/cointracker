@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13241" systemVersion="17B48" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CoinFavorites" representedClassName="CoinFavorites" syncable="YES" codeGenerationType="class">
+        <attribute name="coin_algo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coin_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coin_symbol" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image_path" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="total_supply" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CoinFavorites" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
